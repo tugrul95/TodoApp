@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#CB202020</color>
+    <color name="appName">#FFA05000</color>
+    <color name="loginButton">#FFA05000</color>
+    <color name="bodyText">#FFA05000</color>
+
+</resources>
